@@ -1190,7 +1190,7 @@ var _SETTINGS = {
         },
         Logo: {
             Enabled: !1,
-            Link: "https://extremelinks.xyz/",
+            Link: "https://sites.google.com/view/staticquasar931/gm3z",
             LinkEnabled: !1,
             NewWindow: !0,
             Width: 166,
@@ -1203,7 +1203,7 @@ var _SETTINGS = {
         },
         Logo: {
             Enabled: !1,
-            Link: "https://extremelinks.xyz/",
+            Link: "https://sites.google.com/view/staticquasar931/gm3z",
             LinkEnabled: !0,
             NewWindow: !0,
             Width: 280,
