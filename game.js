@@ -1212,7 +1212,7 @@ var _SETTINGS = {
     },
     MoreGames: {
         Enabled: 1,
-        Link: "https://extremelinks.xyz/",
+        Link: "https://sites.google.com/view/staticquasar931/gm3z",
         NewWindow: !0
     },
     Gamecenter: {
